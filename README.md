@@ -1,7 +1,6 @@
-### Sobre mí 👨‍💻
-### About Me 👨‍💻
+### Sobre mí/About Me 👨‍💻
 
-¡Hola! Soy [Tu Nombre], un desarrollador Full Stack con conocimientos tanto en **backend** como en **frontend**. Mi enfoque principal es el stack **MERN** (MongoDB, Express.js, React y Node.js), el cual estoy poniendo en práctica constantemente para ampliar y pulir mis habilidades.
+¡Hola! Soy Mauricio Perez, un desarrollador Full Stack con conocimientos tanto en **backend** como en **frontend**. Mi enfoque principal es el stack **MERN** (MongoDB, Express.js, React y Node.js), el cual estoy poniendo en práctica constantemente para ampliar y pulir mis habilidades.
 
 Actualmente, estoy buscando oportunidades para colaborar en proyectos desafiantes y seguir creciendo como profesional. ¡Te invito a explorar algunos de mis repositorios con proyectos personales y mi portafolio web, donde podrás ver algunos trabajos que he realizado para clientes!
 
@@ -9,7 +8,7 @@ Hello! I'm Mauricio Perez, a Full Stack developer with expertise in both **backe
 
 I am currently seeking opportunities to collaborate on challenging projects and continue growing as a professional. Feel free to explore some of my repositories with personal projects and my web portfolio, where you can see some of the work I've done for clients!
 
-### Tecnologías que manejo:
+### Tecnologías Principales:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -22,7 +21,7 @@ I am currently seeking opportunities to collaborate on challenging projects and 
 - [Repositorios destacados](https://github.com/tu-usuario?tab=repositories)
 - [Portafolio web](https://tu-portafolio.com)-->
 
-### ¡Conéctate conmigo!
+### ¡Conéctate conmigo!/¡Contact Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-perez-885973258/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauperez9918@gmail.com)
 
