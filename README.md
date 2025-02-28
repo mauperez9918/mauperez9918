@@ -1,10 +1,12 @@
 ### Sobre mí/About Me 👨‍💻
 
-¡Hola! Soy Mauricio Perez, un desarrollador Full Stack con conocimientos tanto en **backend** como en **frontend**. Mi enfoque principal es el stack **MERN** (MongoDB, Express.js, React y Node.js), el cual estoy poniendo en práctica constantemente para ampliar y pulir mis habilidades.
+¡Hola! Soy Mauricio Perez, un desarrollador Full Stack con experiencia en E-commerce y plataformas personalizadas. Especializado en React, Node.js y Firebase, con enfoque en código limpio y escalable. Trabajo de manera colaborativa para crear soluciones eficientes y optimizadas, priorizando la experiencia del usuario y el rendimiento del producto. Me capacito continuamente para mejorar mis habilidades y aportar valor a cada proyecto.
 
 Actualmente, estoy buscando oportunidades para colaborar en proyectos desafiantes y seguir creciendo como profesional. ¡Te invito a explorar algunos de mis repositorios con proyectos personales y mi portafolio web, donde podrás ver algunos trabajos que he realizado para clientes!
 
-Hello! I'm Mauricio Perez, a Full Stack developer with expertise in both **backend** and **frontend** development. My primary focus is the **MERN stack** (MongoDB, Express.js, React, and Node.js), which I am constantly practicing to expand and refine my skills.
+---------------------------------------------------------------------
+
+Full Stack Developer with experience in E-commerce and custom platforms. Specialized in React, Node.js, and Firebase, with a focus on clean and scalable code. I work collaboratively to create efficient and optimized solutions, prioritizing user experience and product performance. I continuously improve my skills to contribute value to each project.
 
 I am currently seeking opportunities to collaborate on challenging projects and continue growing as a professional. Feel free to explore some of my repositories with personal projects and my web portfolio, where you can see some of the work I've done for clients!
 
